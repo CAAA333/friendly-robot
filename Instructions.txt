@@ -1,1 +1,1 @@
-Instructions for deploying the site
+Instructions for deploying the site to the server
